@@ -24,6 +24,11 @@ A fun Streamlit app that lets you **capture or upload photos**, arrange them in 
 
 ![image](https://github.com/user-attachments/assets/69692c3d-ce91-4d05-aa31-8248bc69299e)
 
+![image](https://github.com/user-attachments/assets/3ff2231b-9688-47b4-9c29-3d7bf0841a00)
+![image](https://github.com/user-attachments/assets/b9eaecfd-ede0-4a89-a63c-62c6d4620b3b)
+
+
+
 
 
 
