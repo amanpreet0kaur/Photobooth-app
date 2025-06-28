@@ -19,7 +19,8 @@ A fun Streamlit app that lets you **capture or upload photos**, arrange them in 
 - PyTorch
 
 ## App snippets
-![image](https://github.com/user-attachments/assets/7300bbae-a935-4fa0-a704-a337bbe5c397)
+![image](https://github.com/user-attachments/assets/6f343b61-955f-4315-ba63-18fe0fb5ab88)
+
 
 ![image](https://github.com/user-attachments/assets/69692c3d-ce91-4d05-aa31-8248bc69299e)
 
